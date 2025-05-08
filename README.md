@@ -21,7 +21,11 @@ Realitzar un **Xat web** funcional, modular i extensible amb diverses funcionali
 | **5** | El creador d'una sala és **administrador**. Pot designar altres admins i gestionar els missatges. |
 | **6** | L'usuari pot estar en diverses sales alhora i cada sala manté el seu historial. |
 | **7** | S'afegeix una **funcionalitat innovadora** dissenyada per l'alumne. |
+
+🔹 Nivell 7 implementat: Possibilitat d'ancorar missatges per part dels administradors.
+
 ---
+
 ### 🚀 Instruccions d'ús
 
 1. Abans de començar, instal·lar les dependències:
